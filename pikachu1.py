@@ -2,7 +2,7 @@
 import turtle as te
 
 WriteSteps = 10  
-Speed = 10          # Sampling times of Bezier function
+Speed = 8          # Sampling times of Bezier function
 Xh, Yh = 0, 0       # Record the handle of the previous Bessel function
 te.pensize(4)
 te.speed(Speed)
