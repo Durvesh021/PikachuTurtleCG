@@ -72,9 +72,6 @@ def line_between(source, destination):
     te.goto(destination)
 
 def main():
-    """
-    Layer 1
-    """
     ############ Head With Ears ###############
     te.fillcolor("#F6D02F")
     move_to((84.0,38.0))
